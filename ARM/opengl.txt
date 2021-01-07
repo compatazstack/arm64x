@@ -1,0 +1,5 @@
+https://www.microsoft.com/en-us/store/r/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&wa=wsignin1.0#activetab=pivot:overviewtab  
+
+ms-windows-store://config/?flights=test21Emulation
+
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\
